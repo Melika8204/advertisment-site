@@ -11,6 +11,7 @@ export const clientSectionData = [
     count: '10',
     imageIcon: work,
     description: 'BusinessYearsDescription',
+    
   },
   {
     title: 'ProductsSales',
